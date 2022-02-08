@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>service_offering</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-08 03:13:46</sys_created_on>
+        <sys_id>6bac58691b210110958155f0604bcb3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>service_offering</sys_name>
+        <sys_package display_value="CI/Cd" source="f62e58d11be10110958155f0604bcbec">f62e58d11be10110958155f0604bcbec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CI/Cd">f62e58d11be10110958155f0604bcbec</sys_scope>
+        <sys_update_name>sys_ui_policy_action_6bac58691b210110958155f0604bcb3a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-08 03:13:46</sys_updated_on>
+        <table>incident</table>
+        <ui_policy display_value="service offering is mandatory during service ">914c50691b210110958155f0604bcb71</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
